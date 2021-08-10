@@ -1,3 +1,4 @@
 # DeepLearning Projects 
-*ResNet 
-*VGG
+-ResNet
+
+-VGG
