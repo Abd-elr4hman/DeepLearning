@@ -1,4 +1,4 @@
 # DeepLearning Projects 
--ResNet
+-ResNet Architecture 
 
--VGG
+-VGG Architecture
