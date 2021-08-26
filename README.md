@@ -1,8 +1,8 @@
-# DeepLearning Projects 
--ResNet Architecture 
+## DeepLearning Projects 
+#ResNet Architecture 
 
--VGG Architecture
+#VGG Architecture
 
--Image classification and Localization
+#Image classification and Localization
 
--Custom Huber Loss implementation in tensorflow
+#Custom Huber Loss implementation in tensorflow
