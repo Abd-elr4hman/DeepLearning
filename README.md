@@ -7,3 +7,4 @@ Repository containing various deep-learning applications and implementations.
   - [Huber Loss](https://github.com/Abd-elr4hman/DeepLearning/blob/main/Huber_Loss.ipynb): Huber loss class implementaion compaitable with tensor-flow.
   - [Mnist Object Detection](https://github.com/Abd-elr4hman/DeepLearning/blob/main/Image_classification_and_Localization.ipynb): Mnist Image_classification_and_Localization project.
   - [Mnist Digit Classifier](https://github.com/Abd-elr4hman/DeepLearning/blob/main/kaggle_mnist.ipynb): Digit classifier for kaggle competeion using Mnist dataset.
+  - [Predicting bounding boxes](https://github.com/Abd-elr4hman/DeepLearning/blob/main/Predicting_Bounding_Boxes.ipynb): An assignment completed for Tensorflow Advanced techniques specialization, using caltech bird data set.
